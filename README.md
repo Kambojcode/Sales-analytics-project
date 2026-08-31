@@ -24,3 +24,7 @@ An interactive sales analytics dashboard built using Power BI.
 - DAX
 - Data visualization
 - KPI development
+
+## Power BI Model View
+
+![Power BI Model View](Pictures/Model_view.png)
